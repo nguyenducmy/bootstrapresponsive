@@ -30,6 +30,30 @@ body{
 
 }
 
+#menuleft li
+{
+border-bottom: 1px dashed black;
+
+}
+
+
+#menuleft li a{
+color: black;
+margin-bottom:40 ;
+display: inline-block;
+padding-left: 20px;
+line-height: 40px;
+
+}
+
+
+
+
+
+
+
+
+
 #rightbody
 {
 	float: left;
