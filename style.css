@@ -1,0 +1,47 @@
+body{
+
+	background-color: lightblue;
+
+
+}
+
+#container{
+	float: left;
+
+
+}
+
+
+#header
+{
+	position: relative;
+	color: red;
+	background-color: yellow;
+
+}
+#leftbody
+{	
+	height: 600px;
+	position: relative;
+	width: 30%;
+	color: red;
+	background-color: grey;
+	float: left;
+
+}
+
+#rightbody
+{
+	float: left;
+	height: 600px;
+	width: 70%;
+	position: relative;
+	background-color: lightblue;
+
+}
+#footer
+{
+	position: relative;
+	background-color: green;
+
+}
