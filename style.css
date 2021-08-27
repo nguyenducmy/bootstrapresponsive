@@ -64,7 +64,8 @@ line-height: 40px;
 
 }
 #footer
-{
+{	
+	height:50px
 	position: relative;
 	background-color: green;
 
